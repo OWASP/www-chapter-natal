@@ -1,6 +1,5 @@
-<!--### Chapter Information
-* Chapter Region
+* Chapter Natal
 
 ### Social Links
-* [Meetup](#)
-* [Social Link](#)-->
+* [Meetup](https://www.meetup.com/pt-BR/OWASP-Natal-Chapter)
+* [Social Link - Telegram ](https://t.me/owaspnatal)
