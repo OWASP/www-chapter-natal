@@ -5,8 +5,6 @@ tags: meeting-tag
 level: 2
 
 region: South America
-
-```auto-migrated: 1```
 ---
 
 ## OWASP Natal Chapter
@@ -25,6 +23,6 @@ Natal é a capital do estado de Rio Grande do Norte, na extremidade do nordeste 
 Todos são bem vindos e bem vindas a participar do nosso capítulo!
 Para isso basta comparecer as nossas reuniões, que (normalmente) são mensais, sempre as segunda quinta-feira do mês. Mas avisado previamente e criado um evento no Meetup do nosso capítulo.
 
-Todos são bem-vindos e incentivados a participar de nossos [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. Incentivamos especialmente a diversidade em todas as nossas iniciativas. O OWASP é um lugar fantástico para aprender sobre segurança de aplicativos, rede e até mesmo para construir sua reputação como especialista. Também o encorajamos a ser [tornar-se membro] (/membership) ou considerar uma [doação] (/donate) para apoiar nosso trabalho em andamento.
+Todos são bem-vindos e incentivados a participar de nossos [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/), and [Community Slack Channel](https://owasp.slack.com/). Incentivamos especialmente a diversidade em todas as nossas iniciativas. O OWASP é um lugar fantástico para aprender sobre segurança de aplicativos, rede e até mesmo para construir sua reputação como especialista. Também o encorajamos a ser [tornar-se membro] (/membership) ou considerar uma [doação] (/donate) para apoiar nosso trabalho em andamento.
 
 Os capítulos são liderados por líderes locais, de acordo com o [Manual do Líder do Capítulo] (/www-policy/rules-of-procedure/chapter-handbook). As contribuições financeiras só devem ser feitas on-line usando o botão de doação on-line autorizado. Para ser um ALTO-FALANTE em QUALQUER Capítulo da OWASP no mundo, basta revisar o [acordo do orador] (/www-policy/speaker-agreement) e, em seguida, entre em contato com o líder do capítulo local com detalhes do projeto OWASP, pesquisa independente ou tópico de segurança de software relacionado você gostaria de apresentar.
