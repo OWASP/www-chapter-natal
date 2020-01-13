@@ -2,12 +2,12 @@
 
 layout: col-sidebar
 title: OWASP Natal
-tags: example-tag
-level: 0
+tags: meeting-tag
+level: 2
 
 region: South America
 
-auto-migrated: 1
+```auto-migrated: 1```
 
 ---
 
