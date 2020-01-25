@@ -1,5 +1,6 @@
 ---
 title: DAY
+display: DAY
 layout:  null
 tab: true
 order: 3
