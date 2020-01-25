@@ -30,9 +30,5 @@ tags: meeting-tag
 - 17:30 Hackeando apps Jira com Shodan, Vitor Fernandes
 - 18:30 Encerramento
 
-#### Mini cursos
-
-- Ter conhecimentos em programação.
-- A linguagem abordada será PHP.
-- Levar notebook com alguma IDE instalada.
-
+#### Mini curso
+- Desenvolvimento seguro [[Owasp Top 10](/www-project-top-ten/)]
