@@ -1,6 +1,6 @@
 # OWASP CHAPTER NATAL
 
-![](Logo of OWASP CHAPTER NATAL assets/images/Logo.png)
+![Logo of OWASP CHAPTER NATAL](assets/images/Logo.png)
 
 # Contact
 Telegram: [@owaspnatal](https://t.me/owaspnatal)
