@@ -1,5 +1,5 @@
 ---
-title: OWASP-DAY-NATAL
+title: DAY
 layout:  null
 tab: true
 order: 3
