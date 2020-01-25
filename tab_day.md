@@ -7,7 +7,7 @@ tags: meeting-tag
 ---
 
 ## OWASP DAY NATAL
-![](/assets/owasp-day.jpeg)
+![](assets/images/owasp-day.jpeg)
 
 ### 2019
 
@@ -23,7 +23,7 @@ tags: meeting-tag
 - 12:15 até 13:30 Almoço
 - 13:30 Inicio do CTF
 - 14:00 Engenharia Social na série MR Robot, Chris Henrique Silva
-- 14:45 [Kit inteligencia com OSINT e Docker, Julio Lira](/assets/file/kit-de-inteligencia_OSINT_DOCKER.pdf)
+- 14:45 [Kit inteligencia com OSINT e Docker](assets/files/kit-de-inteligencia_OSINT_DOCKER.pdf), Julio Lira
 - 15:30 Coffee Break
 - 16:00 Segurança em nuvem: A ameaça fantasma, Matheus de Oliveira
 - 16:45 Porque você deve usar o HTTPS, José Maria Jr.
