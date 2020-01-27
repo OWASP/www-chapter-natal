@@ -25,7 +25,7 @@ tags: meeting-tag
 - 14:00 Engenharia Social na série MR Robot, Chris Henrique Silva
 - 14:45 [Kit inteligencia com OSINT e Docker](assets/files/kit-de-inteligencia_OSINT_DOCKER.pdf), Julio Lira
 - 15:30 Coffee Break
-- 16:00 Segurança em nuvem: A ameaça fantasma, Matheus de Oliveira
+- 16:00 [Segurança em nuvem: A ameaça fantasma](assets/files/seguranca-em-nurvem.pdf), Matheus de Oliveira
 - 16:45 Porque você deve usar o HTTPS, José Maria Jr.
 - 17:30 Hackeando apps Jira com Shodan, Vitor Fernandes
 - 18:30 Encerramento
