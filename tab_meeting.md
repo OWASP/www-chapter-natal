@@ -23,14 +23,14 @@ Street number 19E)
   - Tools
   - - Grupo Telegram: [@OSINT_BR](https://t.me/osint_br)
   - - Canal Telegram: [@OSINT_CHANNEL](https://t.me/osint_channel)
-  - - OWASP D4N155: https://github.com/OWASP/D4N155/
-  - - Google Dorks EXPLOIT-DB: https://www.exploit-db.com/google-hacking-database
-  - - GETRAILS: https://github.com/Vault-Cyber-Security/getrails
-  - - Container de OSINT: https://github.com/Vault-Cyber-Security/osint
-  - - VEGA: https://subgraph.com/vega/
-  - - pwndb: http://pwndb2am4tzkvold.onion/
-  - - Dirb: https://tools.kali.org/web-applications/dirb
-  - - Sherlock: https://github.com/sherlock-project/sherlock
+  - - [OWASP D4N155](https://github.com/OWASP/D4N155/)
+  - - [Google Dorks EXPLOIT-DB](https://www.exploit-db.com/google-hacking-database)
+  - - [GETRAILS](https://github.com/Vault-Cyber-Security/getrails)
+  - - [Container de OSINT](https://github.com/Vault-Cyber-Security/osint)
+  - - [VEGA](https://subgraph.com/vega/)
+  - - [pwndb](http://pwndb2am4tzkvold.onion/)
+  - - [Dirb](https://tools.kali.org/web-applications/dirb)
+  - - [Sherlock](https://github.com/sherlock-project/sherlock)
 
 
 ### 2019
