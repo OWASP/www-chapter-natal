@@ -4,7 +4,7 @@ title: OWASP Natal
 tags: meeting-tag
 level: 2
 
-region: South Americ
+region: South America
 meetup-group: OWASP-Natal-Chapter
 country: Brazil
 postal-code: 
