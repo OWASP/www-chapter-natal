@@ -11,6 +11,16 @@ tags: meeting-tag
 ### LAST MEETINGS
 
 ### 2020
+#### 2° Virtual Meeting
+**Location**: Web
+ - [DevSecOps na prática com ferramentas open source](assets/files/DevSecOpsNaPratica.pdf)
+
+#### 1° Virtual Meeting
+**Location**: Google Meet
+
+#### Talk
+ - [AppSec muito além do SAST]()
+
 #### Reunião 0
 
 **Location**: Jerimum Hacker Space | Rua São Pedro 19E(Saint Peter
