@@ -11,7 +11,7 @@ postal-code:
 
 ---
 
-## OWASP Natal Chaptert
+## OWASP Natal Chapterts
 ![Natal, RN](assets/images/Logo.png)
 
 ## Bem vindos!
