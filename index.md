@@ -12,7 +12,7 @@ postal-code:
 ---
 
 ## OWASP Natal 
-![Natal, RN](assets/images/Logo.png)
+![Natal, RN](assets/images/OWASP_logo_trademark.png)
 
 ## Bem vindos!
 Somos o Capítulo Natal/RN do Owasp.
