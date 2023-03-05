@@ -6,9 +6,58 @@ order: 1
 tags: meeting-tag
 ---
 
-## Local News
+### Ultimos encontros
 
-### LAST MEETINGS
+### 2023
+
+#### Meetup Presencial #01
+**Data**: 01/02/2023
+**Location**: Seahub Sebrae Natal
+- Apresentação sobre OWASP - **Matheus Cezar**
+- Como o capítulo OWASP Natal funciona?
+- Como funciona a segurança de aplicações da TV Globo - **Fernando Guisso**
+
+### 2022
+
+#### 2° Virtual Meeting
+**Data**: 12/12/2022
+**Location**: Web
+- Documentação individual - **Ulises Alves**
+[Gravado](https://youtu.be/wqSCCWy5OOg)
+
+#### 1° Virtual Meeting
+**Data**: 24/03/2022
+**Location**: Web
+- [Side Effect](https://www.notion.so/signed/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F28b82aed-bc68-49f2-9219-18449321c8f0%2FMeetup_Natal_-_Slides.pdf?table=block&id=e8472a4d-c1ee-40f9-b88c-952dcdaac501) - **Diego Albuquerque**
+[Gravado](https://www.youtube.com/watch?v=EGW_2nLG2Og)
+
+### 2021
+
+#### 5° Virtual Meeting
+**Data**: 21/12/2021
+**Location**: Web
+- Do desenvolvimento á Segurança - **Helena Carreço**
+
+#### 4° Virtual Meeting
+**Data**: 08/12/2021
+**Location**: Web
+- Do suporte técnico á Segurança - **Clara Nobre**
+
+#### 3° Virtual Meeting
+**Data**: 06/07/2021
+**Location**: Web
+- Entregando real valor atraves de relatorios pentest - **Ulises Alves**
+
+#### 2° Virtual Meeting
+**Data**: 09/03/2021
+**Location**: Web
+- OWASP Code Review Guide - **Matheus Cezar**
+
+#### 1° Virtual Meeting
+**Data**: 02/02/2021
+**Location**: Web
+- [Kubernetes Security 101](https://www.devseccon.com/kubernetes-security-101-best-practices-to-secure-your-cluster-secadvent-day-17/) - **Magno Logan**
+[Gravado](https://www.youtube.com/watch?v=CF-ScdbhU5o)
 
 ### 2020
 #### 2° Virtual Meeting
