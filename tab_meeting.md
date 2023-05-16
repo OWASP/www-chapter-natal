@@ -8,16 +8,29 @@ tags: meeting-tag
 
 ### Ultimos encontros
 
-### 2023
+#### 2023
+
+#### Meetup Online #01
+**Data**: 14/03/2023
+**Location**: Online
+- Como o capítulo OWASP Natal funciona?
+- Dicussão sobre carreira na area de segurança da informação
+Alguns participantes da dicussão:
+- **Matheus Cezar** @ Analista de segurança na Conviso AppSec
+- **Clara Nobre** @ Analista de segurança em cloud na ContaSimples
+- **Eduardo Santos** @ Tech Manager | AppSec and Red Team na BEES Bank Brasil
+- **Fernando Guisso** @ AppSec Engineer na Globo
 
 #### Meetup Presencial #01
+
 **Data**: 01/02/2023
 **Location**: Seahub Sebrae Natal
 - Apresentação sobre OWASP - **Matheus Cezar**
 - Como o capítulo OWASP Natal funciona?
 - Como funciona a segurança de aplicações da TV Globo - **Fernando Guisso**
 
-### 2022
+<details>
+<summary> <b>2022</b></summary>
 
 #### 2° Virtual Meeting
 **Data**: 12/12/2022
@@ -30,8 +43,10 @@ tags: meeting-tag
 **Location**: Web
 - [Side Effect](https://www.notion.so/signed/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F28b82aed-bc68-49f2-9219-18449321c8f0%2FMeetup_Natal_-_Slides.pdf?table=block&id=e8472a4d-c1ee-40f9-b88c-952dcdaac501) - **Diego Albuquerque**
 [Gravado](https://www.youtube.com/watch?v=EGW_2nLG2Og)
+</details>
 
-### 2021
+<details>
+<summary> <b>2021</b></summary>
 
 #### 5° Virtual Meeting
 **Data**: 21/12/2021
@@ -58,8 +73,11 @@ tags: meeting-tag
 **Location**: Web
 - [Kubernetes Security 101](https://www.devseccon.com/kubernetes-security-101-best-practices-to-secure-your-cluster-secadvent-day-17/) - **Magno Logan**
 [Gravado](https://www.youtube.com/watch?v=CF-ScdbhU5o)
+</details>
 
-### 2020
+<details>
+<summary> <b>2020</b></summary>
+
 #### 2° Virtual Meeting
 **Location**: Web
  - [DevSecOps na prática com ferramentas open source](assets/files/DevSecOpsNaPratica.pdf)
@@ -91,8 +109,10 @@ Street number 19E)
   - - [Dirb](https://tools.kali.org/web-applications/dirb)
   - - [Sherlock](https://github.com/sherlock-project/sherlock)
 
+</details>
 
-### 2019
+<details>
+<summary> <b>2019</b></summary>
 
 #### Reunião 0
 
@@ -144,3 +164,4 @@ in events**
 [Devfest nordeste](http://ne.devfest.com.br/)
 
 [Category:OWASP Chapter](Category:OWASP_Chapter "wikilink")
+</details>
