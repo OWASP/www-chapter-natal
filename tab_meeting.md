@@ -18,7 +18,7 @@ tags: meeting-tag
 Alguns participantes da dicussão:
 - **Matheus Cezar** @ Analista de segurança na Conviso AppSec
 - **Clara Nobre** @ Analista de segurança em cloud na ContaSimples
-- **Eduardo Santos** @ Tech Manager | AppSec and Red Team na BEES Bank Brasil
+- **Eduardo Santos** @ Tech Manager AppSec and Red Team na BEES Bank Brasil
 - **Fernando Guisso** @ AppSec Engineer na Globo
 
 #### Meetup Presencial #01
