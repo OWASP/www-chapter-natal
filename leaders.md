@@ -5,3 +5,7 @@
 * [Fernando Guisso](mailto:fernando.guisso@owasp.org)
 * [Matheus Cezar](mailto:matheus.cezar@owasp.org)
 * [Cristian Souza](mailto:cristian.souza@owasp.org)
+
+### Members
+
+* **Eduardo Paixão**
