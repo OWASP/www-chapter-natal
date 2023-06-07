@@ -21,6 +21,7 @@ tags: meeting-tag
 - **Alyson Nakamura** @ Sócio na Qualitek
 - **Eduardo Paixão** @ Pentester na STI
 - **Fernando Guisso** @ AppSec Engineer na Globo
+
 <img src="assets/images/meetup_02_2023.png" width="50%">
 
 
@@ -42,6 +43,7 @@ Alguns participantes da dicussão:
 - Apresentação sobre OWASP - **Matheus Cezar**
 - Como o capítulo OWASP Natal funciona?
 - Como funciona a segurança de aplicações da TV Globo - **Fernando Guisso**
+
 <img src="assets/images/meetup_01_2023.png" width="50%">
 
 
