@@ -10,6 +10,20 @@ tags: meeting-tag
 
 #### 2023
 
+#### Meetup Presencial #02
+**Data**: 23/05/2023
+**Location**: IMD
+- Mesa redonda sobre carreira na area de segurança da informação
+- **Matheus Cezar** @ Analista de segurança na Conviso AppSec
+- **Kali Nathalie** @ Analista de segurança na Conviso AppSec
+- **Kadson Breno** @ Especialista em Segurança da Informação na Unicred do Brasil(UBR)
+- **Caio Luders** @ Lead Red Team na WillBank
+- **Alyson Nakamura** @ Sócio na Qualitek
+- **Eduardo Paixão** @ Pentester na STI
+- **Fernando Guisso** @ AppSec Engineer na Globo
+<img src="https://github.com/OWASP/www-chapter-natal/assets/5755568/2c614267-cf36-4972-87df-f708c3e0e738" width="50%">
+
+
 #### Meetup Online #01
 **Data**: 14/03/2023
 **Location**: Online
@@ -28,6 +42,8 @@ Alguns participantes da dicussão:
 - Apresentação sobre OWASP - **Matheus Cezar**
 - Como o capítulo OWASP Natal funciona?
 - Como funciona a segurança de aplicações da TV Globo - **Fernando Guisso**
+<img src="https://github.com/OWASP/www-chapter-natal/assets/5755568/259184fa-f4cf-4829-93c2-8b7ec9aa5736" width="50%">
+
 
 <details>
 <summary> <b>2022</b></summary>
