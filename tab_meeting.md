@@ -21,7 +21,7 @@ tags: meeting-tag
 - **Alyson Nakamura** @ Sócio na Qualitek
 - **Eduardo Paixão** @ Pentester na STI
 - **Fernando Guisso** @ AppSec Engineer na Globo
-<img src="https://github.com/OWASP/www-chapter-natal/assets/5755568/2c614267-cf36-4972-87df-f708c3e0e738" width="50%">
+<img src="assets/images/meetup_02_2023.png" width="50%">
 
 
 #### Meetup Online #01
@@ -42,7 +42,7 @@ Alguns participantes da dicussão:
 - Apresentação sobre OWASP - **Matheus Cezar**
 - Como o capítulo OWASP Natal funciona?
 - Como funciona a segurança de aplicações da TV Globo - **Fernando Guisso**
-<img src="https://github.com/OWASP/www-chapter-natal/assets/5755568/259184fa-f4cf-4829-93c2-8b7ec9aa5736" width="50%">
+<img src="assets/images/meetup_01_2023.png" width="50%">
 
 
 <details>
