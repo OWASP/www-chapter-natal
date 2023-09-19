@@ -10,6 +10,13 @@ tags: meeting-tag
 
 #### 2023
 
+#### Workshop 2023 Presencial #01
+**Data**: 24/06/2023
+**Location**: SebraeRN
+- Treinamento de Desenvolvimento Seguro utilizando o OWASP Juice Shop
+- **Matheus Cezar** @ Analista de segurança na Conviso AppSec
+- **Fernando Guisso** @ AppSec Engineer na Globo
+
 #### Meetup Presencial #02
 **Data**: 23/05/2023
 **Location**: IMD
