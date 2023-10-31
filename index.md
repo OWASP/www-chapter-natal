@@ -17,7 +17,7 @@ postal-code:
 ## Bem vindos!
 Somos o Capítulo Natal/RN do Owasp.
 
-O Open Web Application Security Project (OWASP) é uma organização sem fins lucrativos que trabalha para melhorar a segurança do software. Todos os projetos, ferramentas, documentos, fóruns e capítulos são gratuitos e abertos a qualquer pessoa interessada em melhorar a segurança das aplicações. 
+O Open Worldwide Application Security Project (OWASP) é uma organização sem fins lucrativos que trabalha para melhorar a segurança do software. Todos os projetos, ferramentas, documentos, fóruns e capítulos são gratuitos e abertos a qualquer pessoa interessada em melhorar a segurança das aplicações. 
 
 Natal é a capital do estado de Rio Grande do Norte, na extremidade do nordeste do Brasil. É conhecida pelas extensas dunas de areia costeiras e pelo Forte dos Reis Magos, em forma de estrela, uma fortaleza portuguesa do século XVI na foz do rio Potengi. A norte do rio, Genipabu é uma área de enormes dunas com uma lagoa de água doce. Natal possue uma área de aproximadamente 167 km², é a segunda capital brasileira com a menor área territorial e a sexta maior capital do país em densidade populacional, distando 2.227 quilômetros de Brasília, a capital federal.
 
