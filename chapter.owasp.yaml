@@ -1,0 +1,32 @@
+leaders:
+  - name: Eduardo Barros Santos
+    email: eduardo.santos@owasp.org
+    github: edusantos33
+  - name: Julio Pedro de Lira Neto
+    email: julio.lira@owasp.org
+  - name: Eduardo Paixao
+    email: eduardo.paixao@owasp.org
+  - name: Matheus Cezar
+    email: matheus.cezar@owasp.org
+    github: matheuscezar
+  - name: Cristian Souza
+    email: cristian.souza@owasp.org
+    github: cristianzsh
+location:
+  country: Brazil
+  country_code: BR
+  region: Rio Grande do Norte
+  city: Natal
+  latitude: -5.805398
+  longitude: -35.2080905
+meetup_group: OWASP-Natal-Chapter
+name: OWASP Natal
+repositories:
+  - name: www-chapter-natal
+    url: https://github.com/OWASP/www-chapter-natal
+    description: OWASP Foundation Web Repository
+tags:
+  - meeting-tag
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-natal
